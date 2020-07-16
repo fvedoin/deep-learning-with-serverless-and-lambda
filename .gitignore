@@ -1,0 +1,6 @@
+venv
+*.zip
+.DS_Store
+**/.serverless
+**/__pycache__
+
